@@ -2,6 +2,7 @@
 # N-Queens
 
 • Domain: DSA | Programming Language: C++
+
   o Designed and implemented a backtracking algorithm to arrange N queens 
     on a chessboard, ensuring that no queens could attack each other.
     
